@@ -7,7 +7,7 @@ LD = /usr/bin/ld
 # grub iso creator
 GRUB = /usr/bin/grub-mkrescue
 # sources
-SRC = src
+SRC = source
 ASM_SRC = $(SRC)/asm
 # objects
 OBJ = obj
